@@ -18,37 +18,13 @@ I build **end-to-end web applications** with React, Node.js, Express and MongoDB
 
 ---
 
-## 🎯 Developer Focus
+## 🧭 What I Build
 
 > **Build the product. Understand the backend. Integrate the real-world services. Make the feature reliable.**
 
 I focus on turning ideas into **working, product-oriented applications** rather than stopping at a frontend demo.
 
 My recent work spans **e-commerce, authentication, payments, seller workflows, cloud integrations, REST APIs and AI-assisted product discovery**.
-
-```text
-                    PRODUCT IDEA
-                         │
-                         ▼
-                ┌─────────────────┐
-                │   React / UI    │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │  REST / Express │
-                └────────┬────────┘
-                         │
-                  ┌──────┴──────┐
-                  ▼             ▼
-             ┌────────┐    ┌───────────┐
-             │MongoDB │    │  Services │
-             └────────┘    ├───────────┤
-                           │ Stripe    │
-                           │ Cloudinary│
-                           │ Gemini AI │
-                           └───────────┘
-```
 
 ---
 
@@ -159,28 +135,28 @@ The backend validates model-selected product IDs against the real catalogue and 
 
 ---
 
-# 📊 GitHub Activity & Developer Metrics
+# 📊 GitHub Activity & Portfolio Metrics
 
 <div align="center">
 
 <a href="https://github.com/duttasirius">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duttasirius&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duttasirius&theme=github_dark" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/duttasirius">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttasirius&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duttasirius&theme=github_dark" alt="Top languages by repository" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=duttasirius&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=duttasirius&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duttasirius&hide_border=true&area=true&radius=8&theme=github-compact" alt="GitHub activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duttasirius&hide_border=true&area=true&radius=8" alt="GitHub activity graph" width="95%" />
 
 </div>
 
-> 📈 The charts above are **live GitHub-generated views**, so repository activity and contribution data update automatically as the profile evolves.
+> 📈 These cards are generated from GitHub activity and update as the profile evolves.
 
 ---
 
