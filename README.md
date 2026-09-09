@@ -2,33 +2,42 @@
 
 # 👋 Hi, I'm Sagnik Dutta
 
-### Full-Stack MERN Developer · Building Practical Web Products with AI 🚀
+### Full-Stack MERN Developer | React • Node.js • Express • MongoDB
 
-I build **end-to-end web applications** with React, Node.js, Express and MongoDB — from responsive interfaces and REST APIs to authentication, payments, cloud media and AI-powered product experiences.
+I build **end-to-end web applications** with a focus on real product workflows, clean APIs, authentication, payments, cloud services, and AI-powered features.
 
 <p>
-  <a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-duttasirius-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/⭐%20Featured-GreenCart-2ea44f?style=for-the-badge&logo=github" alt="GreenCart" /></a>
-  <a href="https://github.com/duttasirius?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-8250df?style=for-the-badge&logo=github" alt="Projects" /></a>
+  <a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/Featured-GreenCart-2ea44f?style=for-the-badge&logo=github" alt="GreenCart project" /></a>
+  <a href="https://github.com/duttasirius/hotelweb"><img src="https://img.shields.io/badge/Featured-Hotel%20Booking-2563eb?style=for-the-badge&logo=github" alt="Hotel Booking project" /></a>
+  <a href="https://github.com/duttasirius?tab=repositories"><img src="https://img.shields.io/badge/All%20Projects-Explore-8250df?style=for-the-badge&logo=github" alt="All projects" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;AI-Powered+Web+Applications;Building+Real+Product+Workflows" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;JWT+Authentication+%7C+REST+APIs+%7C+Payments;AI-Powered+Web+Applications" alt="Typing introduction" />
 
 </div>
 
 ---
 
-## 🧭 What I Build
+## 👨‍💻 About Me
 
-> **Build the product. Understand the backend. Integrate the real-world services. Make the feature reliable.**
+I enjoy building **practical, full-stack applications** rather than stopping at UI prototypes.
 
-I focus on turning ideas into **working, product-oriented applications** rather than stopping at a frontend demo.
+My projects cover:
 
-My recent work spans **e-commerce, authentication, payments, seller workflows, cloud integrations, REST APIs and AI-assisted product discovery**.
+- Responsive React interfaces and reusable component systems
+- Node.js / Express REST APIs and MongoDB data models
+- JWT authentication and protected user/owner workflows
+- Payment integrations and commerce workflows
+- Cloudinary media uploads and third-party service integrations
+- AI-assisted product discovery with deterministic fallbacks
+- Deployment, debugging, and production-oriented error handling
+
+I'm looking for opportunities as a **Full-Stack Developer / MERN Developer / Software Engineer** where I can contribute to real products and continue growing as an engineer.
 
 ---
 
-# 🛠️ Core Technology Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -48,14 +57,15 @@ My recent work spans **e-commerce, authentication, payments, seller workflows, c
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Integrations, Cloud & AI
+### Integrations
 
 ![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-Payments-0C66E4?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-Email-0F9D58?style=for-the-badge&logo=minutemailer&logoColor=white)
 
-### Developer Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -65,77 +75,142 @@ My recent work spans **e-commerce, authentication, payments, seller workflows, c
 
 ---
 
-# ⭐ Featured Project
+# ⭐ Featured Projects
 
 ## 🛒 GreenCart — AI-Powered Multivendor Grocery Platform
 
-<p align="center">
-  <a href="https://github.com/duttasirius/ggrocery">
-    <img src="https://img.shields.io/github/stars/duttasirius/ggrocery?style=for-the-badge&logo=github" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/duttasirius/ggrocery?style=for-the-badge&logo=github" alt="Forks" />
-    <img src="https://img.shields.io/github/last-commit/duttasirius/ggrocery/dev?style=for-the-badge&logo=github" alt="Last commit" />
-  </a>
-</p>
+**Repo:** [duttasirius/ggrocery](https://github.com/duttasirius/ggrocery)
 
-**Repository:** [duttasirius/ggrocery](https://github.com/duttasirius/ggrocery)
+A full-stack grocery commerce platform built around a realistic customer-to-order lifecycle.
 
-GreenCart is my strongest full-stack project: a grocery commerce platform designed around a realistic customer-to-order lifecycle.
+**Key engineering work**
 
-### Product flow
+- 🛍️ Product catalogue, cart, Buy Now, checkout, and order workflows
+- 🤖 Gemini-assisted natural-language product discovery
+- 🔎 Deterministic catalogue matching + AI intent understanding
+- 🔐 JWT-protected customer and seller workflows
+- 💳 Stripe checkout + Cash on Delivery
+- ⭐ Product ratings and reviews
+- 🏪 Seller product, stock, image, and order management
+- ☁️ Cloudinary-hosted product media
+- 📱 Responsive React + Tailwind storefront
 
-```text
-Discover → Search → Product → Cart → Address → Payment → Order → Seller Fulfillment
-```
-
-### What it demonstrates
-
-| Area | Implementation |
-|---|---|
-| 🛍️ Commerce | Catalogue, cart, Buy Now, checkout and order flows |
-| 🤖 AI | Gemini-assisted natural-language product discovery |
-| 🔎 Search | Deterministic catalogue matching + AI intent understanding |
-| 🔐 Auth | JWT-based protected customer and seller workflows |
-| 💳 Payments | Stripe checkout + Cash on Delivery |
-| ⭐ Reviews | Product-specific ratings and review management |
-| 🏪 Seller | Product, price, stock, image and order workflows |
-| ☁️ Media | Cloudinary-hosted product images |
-| 📱 UI | Responsive React + Tailwind CSS storefront |
-
----
-
-## 🧠 Why the AI Search Is Interesting
-
-Instead of allowing an LLM to act as the database, GreenCart combines **deterministic catalogue matching** with Gemini-based intent understanding.
+### AI Search Architecture
 
 ```text
 User Query
-    │
-    ▼
+    ↓
 Normalize / Tokenize
-    │
-    ▼
-Deterministic Catalogue Matching
-    │
-    ▼
+    ↓
+Catalogue Matching
+    ↓
 Gemini Intent Understanding
-    │
-    ▼
-Validate Product IDs Against MongoDB
-    │
-    ▼
+    ↓
+Validate Product IDs
+    ↓
 Merge + Deduplicate
-    │
-    ▼
-Real Catalogue Products
+    ↓
+Real MongoDB Products
 ```
 
-The backend validates model-selected product IDs against the real catalogue and can fall back to deterministic matching when the AI service is unavailable or returns an unusable result.
-
-**Engineering idea:** AI improves discovery without becoming a single point of failure for the shopping flow.
+**Engineering principle:** AI improves discovery without becoming the single source of truth for the catalogue.
 
 ---
 
-# 📊 GitHub Activity & Portfolio Metrics
+## 🏨 Hotel Booking Platform — Full-Stack Hospitality Application
+
+**Repo:** [duttasirius/hotelweb](https://github.com/duttasirius/hotelweb)
+
+A full-stack hotel booking application with separate React client and Express backend.
+
+**Key engineering work**
+
+- 🔐 JWT authentication with password hashing
+- 👤 User and hotel-owner roles
+- 🏨 Hotel registration and owner workflows
+- 🛏️ Room creation and availability management
+- 📅 Booking and availability flows
+- 💳 Razorpay payment integration
+- ☁️ Cloudinary media integration
+- 🔌 Protected REST APIs with Express middleware
+- 🗄️ MongoDB + Mongoose data modelling
+
+---
+
+# 🧩 Other Projects
+
+| Project | What it demonstrates |
+|---|---|
+| 🎬 **[Netflix Clone](https://github.com/duttasirius/Netflix-Clone)** | React UI + API-driven streaming-style experience |
+| 🍅 **[Tomato](https://github.com/duttasirius/tomato)** | Food ordering application workflows |
+| 🚴 **[Vingo Food Delivery](https://github.com/duttasirius/vingo-Food-Delivery)** | Full-stack food delivery application |
+| 🔐 **[MERN Auth](https://github.com/duttasirius/mernAuth)** | JWT authentication and protected routes |
+| 📖 **[Dictionary App](https://github.com/duttasirius/dictionaryapp)** | React + external API integration |
+
+---
+
+# 🏗️ How I Think About Full-Stack Features
+
+```text
+Browser
+  ↓
+React UI
+  ↓
+API Request
+  ↓
+Express Route
+  ↓
+Auth / Validation Middleware
+  ↓
+Controller / Business Logic
+  ↓
+MongoDB / External Service
+  ↓
+Response
+  ↓
+UI State Update
+```
+
+I care about more than making the happy path work. I try to define:
+
+- where the source of truth lives
+- how authentication and authorization are enforced
+- how external service failures are handled
+- how invalid input is rejected
+- how the frontend represents loading, success, and failure states
+
+---
+
+# 📚 Currently Improving
+
+- Advanced JavaScript and asynchronous programming
+- React architecture and maintainability
+- REST API design and backend quality
+- Authentication and authorization
+- MongoDB modelling and query patterns
+- AI integration patterns
+- Deployment and production debugging
+- Clean, readable, maintainable code
+
+---
+
+# 🎯 Recruiter Snapshot
+
+| Area | Stack |
+|---|---|
+| 👨‍💻 Target Role | **Full-Stack Developer / MERN Developer** |
+| 🎨 Frontend | **React · JavaScript · Vite · Tailwind CSS** |
+| ⚙️ Backend | **Node.js · Express · REST APIs** |
+| 🗄️ Database | **MongoDB · Mongoose** |
+| 🔐 Authentication | **JWT · Password Hashing · Protected Routes** |
+| 💳 Payments | **Stripe · Razorpay · Cash on Delivery** |
+| ☁️ Cloud | **Cloudinary** |
+| 🤖 AI | **Google Gemini** |
+| 🧩 Focus | **End-to-end product development** |
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -150,154 +225,18 @@ The backend validates model-selected product IDs against the real catalogue and 
 
 <img src="https://streak-stats.demolab.com/?user=duttasirius&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duttasirius&hide_border=true&area=true&radius=8" alt="GitHub activity graph" width="95%" />
-
-</div>
-
-> 📈 These cards are generated from GitHub activity and update as the profile evolves.
-
----
-
-# 🧩 Selected Projects
-
-| Project | Focus | Stack / Signal |
-|---|---|---|
-| 🛒 **[GreenCart](https://github.com/duttasirius/ggrocery)** | AI-assisted grocery commerce | MERN · Gemini · Stripe · Cloudinary |
-| 🎬 **[Netflix Clone](https://github.com/duttasirius/Netflix-Clone)** | Streaming-style web experience | React · API-driven UI |
-| 🍅 **[Tomato](https://github.com/duttasirius/tomato)** | Food ordering workflows | Full-stack web application |
-| 🚴 **[Vingo Food Delivery](https://github.com/duttasirius/vingo-Food-Delivery)** | Food delivery platform | MERN-style application architecture |
-| 🔐 **[MERN Auth](https://github.com/duttasirius/mernAuth)** | Authentication-focused app | JWT · Protected routes |
-| 🏨 **[Hotel Web](https://github.com/duttasirius/hotelweb)** | Hospitality web application | Responsive frontend |
-| 📖 **[Dictionary App](https://github.com/duttasirius/dictionaryapp)** | API-driven application | React · API integration |
-
----
-
-# 🔐 Full-Stack Engineering Areas
-
-### Frontend
-
-- Reusable React components
-- Responsive layouts
-- React Router navigation
-- API integration with Axios
-- Context-based application state
-- Loading, empty and error states
-- Interactive e-commerce interfaces
-
-### Backend
-
-- REST API development with Express
-- MongoDB / Mongoose data modelling
-- Authentication and authorization middleware
-- JWT-protected resources
-- Commerce and order workflows
-- File upload handling
-- Payment integration
-- Server-side validation
-
-### AI Integration
-
-- Natural-language product search
-- LLM-assisted intent detection
-- Structured model output
-- Model-output validation
-- Deterministic fallback strategies
-- AI features integrated into real user workflows
-
----
-
-# 🏗️ Architecture Mindset
-
-I enjoy working across the complete request lifecycle:
-
-```text
-Browser
-  ↓
-React Component
-  ↓
-API Request
-  ↓
-Express Route
-  ↓
-Middleware / Validation
-  ↓
-Controller / Business Logic
-  ↓
-MongoDB / External Service
-  ↓
-Response
-  ↓
-UI State Update
-```
-
-For integrations, I prefer treating third-party systems as **explicit dependencies with validation and failure handling**, rather than assuming every external service will always succeed.
-
----
-
-# 📚 Current Learning & Improvement
-
-I'm actively strengthening:
-
-- Advanced JavaScript and asynchronous programming
-- React architecture and maintainability
-- Backend design and API quality
-- Authentication and authorization
-- Database modelling and query patterns
-- AI integration patterns
-- Deployment and production debugging
-- Clean, readable and maintainable code
-
----
-
-# 🎯 What I'm Looking For
-
-I'm focused on opportunities where I can contribute as a **Full-Stack / MERN Developer** and grow through real engineering work.
-
-I'm especially interested in products and teams working with:
-
-`React` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `AI-powered products` · `SaaS` · `E-commerce`
-
----
-
-# 🧪 How I Approach Features
-
-Rather than adding technology for the sake of technology, I try to ask:
-
-> **What user problem does this solve, how should it behave when things go wrong, and where should the source of truth live?**
-
-That mindset is reflected in projects where frontend, backend, database logic, third-party integrations and failure handling all have to work together.
-
----
-
-# 📌 Recruiter Snapshot
-
-<div align="center">
-
-| Category | Snapshot |
-|---|---|
-| 👨‍💻 Role | **Full-Stack / MERN Developer** |
-| 🎨 Frontend | **React · JavaScript · Vite · Tailwind CSS** |
-| ⚙️ Backend | **Node.js · Express · REST APIs** |
-| 🗄️ Database | **MongoDB · Mongoose** |
-| 🔐 Security | **JWT · Protected Routes · Validation** |
-| 💳 Payments | **Stripe · Cash on Delivery** |
-| ☁️ Cloud | **Cloudinary** |
-| 🤖 AI | **Google Gemini** |
-| 🧩 Strength | **End-to-end product development** |
-
 </div>
 
 ---
 
-# 🌐 Find Me Online
+# 🌐 Projects & Links
 
 <div align="center">
 
-<a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://github.com/duttasirius/portfolio"><img src="https://img.shields.io/badge/Portfolio-Repository-8250df?style=for-the-badge&logo=github" alt="Portfolio repository" /></a>
-<a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/Featured-GreenCart-2ea44f?style=for-the-badge&logo=github" alt="GreenCart repository" /></a>
+<a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/GreenCart-Featured-2ea44f?style=for-the-badge&logo=github" alt="GreenCart" /></a>
+<a href="https://github.com/duttasirius/hotelweb"><img src="https://img.shields.io/badge/Hotel%20Booking-Featured-2563eb?style=for-the-badge&logo=github" alt="Hotel Booking" /></a>
 
 </div>
 
@@ -305,10 +244,8 @@ That mindset is reflected in projects where frontend, backend, database logic, t
 
 <div align="center">
 
-### 🚀 Building. Debugging. Learning. Shipping.
+### 🚀 Building • Debugging • Learning • Shipping
 
-**Thanks for visiting my profile!** ⭐
-
-<img src="https://komarev.com/ghpvc/?username=duttasirius&style=for-the-badge&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=duttasirius&style=for-the-badge" alt="Profile views" />
 
 </div>
