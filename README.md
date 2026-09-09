@@ -1,209 +1,226 @@
+<div align="center">
+
 # 👋 Hi, I'm Sagnik Dutta
 
-### Full-Stack MERN Developer | React • Node.js • MongoDB • AI
+### Full-Stack MERN Developer · Building Practical Web Products with AI
 
-I build **end-to-end web applications** with React, Node.js, Express, and MongoDB, with a focus on real product workflows rather than only frontend demos.
+I build **end-to-end web applications** with React, Node.js, Express and MongoDB — from responsive interfaces and REST APIs to authentication, payments, cloud media and AI-powered product experiences.
 
-My projects include **e-commerce, authentication, payment integrations, cloud media, seller workflows, REST APIs, and AI-powered product discovery**.
+<p>
+  <a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-duttasirius-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/Featured%20Project-GreenCart-2ea44f?style=for-the-badge&logo=github" alt="GreenCart" /></a>
+</p>
 
-> 🚀 **Current focus:** building production-minded full-stack applications, improving backend architecture, and integrating practical AI features into real products.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 What I Do
 
-### Frontend
+I focus on turning ideas into **working, product-oriented applications** rather than stopping at a frontend demo.
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-HTTP-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+```text
+React UI
+   ↓
+REST APIs
+   ↓
+Business Logic
+   ↓
+MongoDB
+   ↓
+Third-Party Services
+   ├── Stripe
+   ├── Cloudinary
+   └── Gemini AI
+```
 
-### Backend & Database
+My projects commonly involve **e-commerce workflows, authentication, payments, seller/admin functionality, cloud integrations and AI-assisted features**.
 
-![Node.js](https://img.shields.io/badge/Node.js-ESM-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-5-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+---
 
-### Integrations & Tools
+## ⚡ Core Stack
 
-![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+**Frontend**  
+`React` · `JavaScript` · `Vite` · `Tailwind CSS` · `Axios` · `React Router`
+
+**Backend**  
+`Node.js` · `Express` · `REST APIs` · `JWT` · `Mongoose`
+
+**Database & Cloud**  
+`MongoDB` · `Cloudinary`
+
+**Integrations & AI**  
+`Stripe` · `Google Gemini` · `Nodemailer`
+
+**Developer Tools**  
+`Git` · `GitHub` · `ESLint`
+
+</div>
 
 ---
 
 # ⭐ Featured Project
 
-## 🛒 GreenCart — AI-Powered Grocery E-Commerce Platform
+## 🛒 GreenCart — AI-Powered Multivendor Grocery Platform
 
 **Repository:** [duttasirius/ggrocery](https://github.com/duttasirius/ggrocery)
 
-A full-stack grocery shopping platform covering the complete commerce lifecycle:
+GreenCart is my strongest full-stack project: a grocery commerce platform designed around a realistic customer-to-order lifecycle.
 
-**Discover → Search → Product → Cart → Checkout → Payment → Order → Seller Fulfillment**
+### Product flow
 
-### Key Features
+`Discover → Search → Product → Cart → Address → Payment → Order → Seller Fulfillment`
 
-- 🤖 **AI-powered natural-language product discovery** using Google Gemini
-- 🔎 Hybrid search combining AI intent understanding with deterministic catalogue matching
-- 🛒 Cart, quantity management, Buy Now, address and checkout flows
-- 💳 Stripe payments and Cash on Delivery
-- ⭐ Product-specific ratings and reviews
-- 🔐 JWT-based customer and seller authentication
-- 🏪 Seller-side product, pricing, stock and order workflows
-- ☁️ Cloudinary-based product image management
-- 📱 Responsive React + Tailwind storefront
-- 🛡️ Server-side validation of AI-selected catalogue product IDs
-- 🔄 Deterministic fallback when the AI service is unavailable
+### What it demonstrates
 
-### Why this project stands out
-
-The AI search does **not** treat the LLM as the source of truth. Real products are loaded from MongoDB, AI output is constrained to catalogue IDs, and returned IDs are validated against the actual catalogue before the frontend receives them.
-
-That architecture demonstrates a practical approach to:
-
-**AI + application reliability + validation + real commerce workflows**
-
----
-
-# 💡 Other Projects
-
-| Project | What it demonstrates |
+| Area | Implementation |
 |---|---|
-| [GreenCart](https://github.com/duttasirius/ggrocery) | AI-assisted e-commerce, payments, reviews, seller workflows |
-| [Netflix Clone](https://github.com/duttasirius/Netflix-Clone) | React UI development and API-driven frontend work |
-| [Vingo Food Delivery](https://github.com/duttasirius/vingo-Food-Delivery) | Food-ordering application workflows |
-| [Tomato](https://github.com/duttasirius/tomato) | Full-stack food-ordering experience |
-| [MERN Auth](https://github.com/duttasirius/mernAuth) | Authentication and protected application flows |
-| [Hotel Web](https://github.com/duttasirius/hotelweb) | Responsive web development |
-| [Dictionary App](https://github.com/duttasirius/dictionaryapp) | API integration with React |
-| [Portfolio](https://github.com/duttasirius/portfolio) | Personal portfolio and presentation |
+| 🛍️ Commerce | Catalogue, cart, Buy Now, checkout and order flows |
+| 🤖 AI | Gemini-assisted natural-language product discovery |
+| 🔎 Search | Deterministic catalogue matching + AI intent understanding |
+| 🔐 Auth | JWT-based protected customer and seller workflows |
+| 💳 Payments | Stripe checkout + Cash on Delivery |
+| ⭐ Reviews | Product-specific ratings and review management |
+| 🏪 Seller | Product, price, stock, image and order workflows |
+| ☁️ Media | Cloudinary-hosted product images |
+| 📱 UI | Responsive React + Tailwind CSS storefront |
+
+### 🧠 The interesting part: hybrid AI search
+
+Instead of allowing an LLM to act as the source of truth, the application combines **deterministic catalogue matching** with Gemini-based intent understanding.
+
+```text
+User query
+    ↓
+Normalize / tokenize
+    ↓
+Catalogue matching
+    ↓
+Gemini intent understanding
+    ↓
+Validate product IDs against MongoDB
+    ↓
+Merge + deduplicate results
+    ↓
+Return real catalogue products
+```
+
+This approach keeps AI useful without making the external model a single point of failure. The backend can still fall back to deterministic matching when the AI service is unavailable or produces an unusable response.
 
 ---
 
-# 🧩 What I Work With
+# 🧩 Other Projects
+
+| Project | What it shows |
+|---|---|
+| 🎬 [Netflix Clone](https://github.com/duttasirius/Netflix-Clone) | React-based streaming-style frontend experience |
+| 🍅 [Tomato](https://github.com/duttasirius/tomato) | Food-ordering application and full-stack product workflows |
+| 🚴 [Vingo Food Delivery](https://github.com/duttasirius/vingo-Food-Delivery) | Food delivery application architecture |
+| 🔐 [MERN Auth](https://github.com/duttasirius/mernAuth) | Authentication-focused MERN implementation |
+| 🏨 [Hotel Web](https://github.com/duttasirius/hotelweb) | Responsive hospitality web application |
+| 📖 [Dictionary App](https://github.com/duttasirius/dictionaryapp) | API-driven React application |
+
+> My repository history reflects a progression from smaller frontend/API projects toward larger, end-to-end applications.
+
+---
+
+# 🔐 Full-Stack Engineering Areas
 
 ### Frontend
 
-- React component architecture
-- React Router
-- Axios and REST API integration
-- Tailwind CSS
+- Reusable React components
 - Responsive layouts
-- Reusable UI components
-- Loading, error and empty states
-- Client-side application state
+- React Router navigation
+- API integration with Axios
+- Context-based application state
+- Loading, empty and error states
+- Interactive e-commerce UI
 
 ### Backend
 
-- Node.js and Express REST APIs
-- MongoDB and Mongoose
+- REST API development with Express
+- MongoDB/Mongoose data modelling
 - Authentication and authorization middleware
-- JWT-based protected routes
-- Product, cart, order and review workflows
-- File uploads
+- JWT-protected resources
+- Commerce and order workflows
+- File upload handling
+- Payment integration
 - Server-side validation
-- Third-party API integration
 
 ### AI Integration
 
-- Google Gemini integration
 - Natural-language product search
-- Structured AI responses
-- Catalogue-aware recommendations
-- Validation of model output
-- AI fallback strategies
-
-### Integrations
-
-- Stripe payment processing
-- Cloudinary media storage
-- Nodemailer/email workflows
-- Cookie-based authentication flows
+- LLM-assisted intent detection
+- Structured model output
+- Model-output validation
+- Deterministic fallback strategies
+- AI features integrated into real user workflows
 
 ---
 
-# 🏗️ How I Think About Full-Stack Applications
+# 🎯 What I'm Looking For
 
-I try to build projects that solve an application-level problem, not just demonstrate a framework.
+I'm currently focused on opportunities where I can contribute as a **Full-Stack / MERN Developer** and grow through real engineering work.
 
-For example, while building e-commerce applications, I think about:
+I'm especially interested in teams working with:
 
-```text
-User Query
-   ↓
-Search / AI Intent
-   ↓
-Real Catalogue
-   ↓
-Product Discovery
-   ↓
-Cart
-   ↓
-Checkout
-   ↓
-Payment Verification
-   ↓
-Order
-   ↓
-Seller Fulfillment
-```
-
-The goal is to understand how the individual pieces work together as a complete product.
+`React` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `AI-powered products` · `SaaS` · `E-commerce`
 
 ---
 
-# 📚 Currently Improving
+# 📚 Current Learning & Improvement
+
+I'm actively strengthening:
 
 - Advanced JavaScript and asynchronous programming
-- React architecture and application state
-- Backend and REST API design
-- MongoDB schema and query patterns
+- React architecture and maintainability
+- Backend design and API quality
 - Authentication and authorization
+- Database modelling and query patterns
 - AI integration patterns
-- Production deployment
-- Debugging and troubleshooting
-- Clean, maintainable code
-- Building production-style portfolio projects
-
----
-
-# 🎯 Career Focus
-
-I'm pursuing opportunities as a **Full-Stack / MERN Developer** where I can contribute to real products while continuing to grow as an engineer.
-
-I'm especially interested in:
-
-- React + Node.js applications
-- REST APIs and backend systems
-- MongoDB-backed applications
-- E-commerce and SaaS products
-- AI-enhanced web applications
-- Authentication and authorization
-- Payments and third-party integrations
 - Deployment and production debugging
+- Clean, readable and maintainable code
 
 ---
 
-# 📫 Connect With Me
+# 🛠️ How I Think About Projects
 
-| Platform | Link |
+I try to build features that solve an actual product problem.
+
+For example, rather than adding AI simply because it is fashionable, I ask:
+
+> **Does AI make the user's workflow meaningfully better, and what happens when the AI fails?**
+
+That mindset has led me toward projects where UI, backend logic, databases, integrations and failure handling all have to work together.
+
+---
+
+# 📌 Quick Recruiter Snapshot
+
+| | |
 |---|---|
-| **GitHub** | [github.com/duttasirius](https://github.com/duttasirius) |
-| **Portfolio** | [github.com/duttasirius/portfolio](https://github.com/duttasirius/portfolio) |
+| **Role** | Full-Stack / MERN Developer |
+| **Frontend** | React, JavaScript, Vite, Tailwind CSS |
+| **Backend** | Node.js, Express, REST APIs |
+| **Database** | MongoDB, Mongoose |
+| **Auth** | JWT, protected routes |
+| **Payments** | Stripe, Cash on Delivery |
+| **Cloud** | Cloudinary |
+| **AI** | Google Gemini |
+| **Strength** | End-to-end product development |
 
 ---
 
-## ⚡ GitHub Philosophy
+## 📫 Let's Connect
 
-> **Build it. Debug it. Improve it. Ship it.**
+**GitHub:** [github.com/duttasirius](https://github.com/duttasirius)
 
-I use GitHub as a record of that progression — from smaller applications to larger full-stack products with authentication, payments, cloud services, and AI integrations.
+I'm continuing to build, deploy, debug and improve full-stack applications — with a particular interest in **practical AI features inside real products**.
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+</div>
