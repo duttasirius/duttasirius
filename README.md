@@ -2,18 +2,18 @@
 
 # 👋 Hi, I'm Sagnik Dutta
 
-### Full-Stack MERN Developer | React • Node.js • Express • MongoDB
+### Full-Stack Developer | MERN • Next.js • TypeScript
 
-I build **end-to-end web applications** with a focus on real product workflows, clean APIs, authentication, payments, cloud services, and AI-powered features.
+I build **production-oriented full-stack web applications** with real business workflows, secure authentication, payments, AI-powered discovery, cloud services, and responsive user experiences.
 
 <p>
-  <a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/Featured-GreenCart-2ea44f?style=for-the-badge&logo=github" alt="GreenCart project" /></a>
-  <a href="https://github.com/duttasirius/hotelweb"><img src="https://img.shields.io/badge/Featured-Hotel%20Booking-2563eb?style=for-the-badge&logo=github" alt="Hotel Booking project" /></a>
-  <a href="https://github.com/duttasirius?tab=repositories"><img src="https://img.shields.io/badge/All%20Projects-Explore-8250df?style=for-the-badge&logo=github" alt="All projects" /></a>
+  <a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
+  <a href="https://github.com/duttasirius/multivendor"><img src="https://img.shields.io/badge/Featured-MultiCart-8250df?style=for-the-badge&logo=github" alt="MultiCart" /></a>
+  <a href="https://github.com/duttasirius/vingo-Food-Delivery"><img src="https://img.shields.io/badge/Featured-Vingo-f97316?style=for-the-badge&logo=github" alt="Vingo" /></a>
+  <a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/Featured-GreenCart-2ea44f?style=for-the-badge&logo=github" alt="GreenCart" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;JWT+Authentication+%7C+REST+APIs+%7C+Payments;AI-Powered+Web+Applications" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;REST+APIs+%7C+Authentication+%7C+Payments;AI-Powered+Web+Applications" alt="Typing introduction" />
 
 </div>
 
@@ -21,34 +21,23 @@ I build **end-to-end web applications** with a focus on real product workflows, 
 
 ## 👨‍💻 About Me
 
-I enjoy building **practical, full-stack applications** rather than stopping at UI prototypes.
+I enjoy building **complete products rather than isolated UI prototypes**. My projects cover frontend architecture, backend APIs, database modelling, authentication, authorization, payments, cloud media, AI integrations, realtime features, and deployment.
 
-My projects cover:
-
-- Responsive React interfaces and reusable component systems
-- Node.js / Express REST APIs and MongoDB data models
-- JWT authentication and protected user/owner workflows
-- Payment integrations and commerce workflows
-- Cloudinary media uploads and third-party service integrations
-- AI-assisted product discovery with deterministic fallbacks
-- Deployment, debugging, and production-oriented error handling
-
-I'm looking for opportunities as a **Full-Stack Developer / MERN Developer / Software Engineer** where I can contribute to real products and continue growing as an engineer.
+I'm currently looking for opportunities as a **Full-Stack Developer / MERN Developer / Software Engineer**, where I can contribute to real products and continue growing as an engineer.
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-HTTP-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend & Database
 
@@ -63,7 +52,7 @@ I'm looking for opportunities as a **Full-Stack Developer / MERN Developer / Sof
 ![Razorpay](https://img.shields.io/badge/Razorpay-Payments-0C66E4?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-Email-0F9D58?style=for-the-badge&logo=minutemailer&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Tools
 
@@ -71,126 +60,142 @@ I'm looking for opportunities as a **Full-Stack Developer / MERN Developer / Sof
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-Code_Quality-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-</div>
-
 ---
 
 # ⭐ Featured Projects
 
-## 🛒 GreenCart — AI-Powered Multivendor Grocery Platform
+## 🥇 MultiCart — AI-Powered Multi-Vendor Marketplace
 
-**Repo:** [duttasirius/ggrocery](https://github.com/duttasirius/ggrocery)
+**Next.js 16 · React 19 · TypeScript · MongoDB · Redux Toolkit · Stripe · Cloudinary · Groq AI**
 
-A full-stack grocery commerce platform built around a realistic customer-to-order lifecycle.
+A production-oriented marketplace with separate **customer, vendor, and admin workflows**.
 
-**Key engineering work**
-
-- 🛍️ Product catalogue, cart, Buy Now, checkout, and order workflows
-- 🤖 Gemini-assisted natural-language product discovery
-- 🔎 Deterministic catalogue matching + AI intent understanding
-- 🔐 JWT-protected customer and seller workflows
+**Highlights**
+- 🤖 AI shopping assistant using structured tool calling against real MongoDB products
+- 🏪 Vendor onboarding, approval, product ownership, and marketplace moderation
+- 👑 Admin governance for vendors, products, orders, and platform operations
 - 💳 Stripe checkout + Cash on Delivery
-- ⭐ Product ratings and reviews
-- 🏪 Seller product, stock, image, and order management
-- ☁️ Cloudinary-hosted product media
-- 📱 Responsive React + Tailwind storefront
+- 📦 Complete order lifecycle including cancellation, returns, and delivery verification
+- 🔐 NextAuth authentication + role-based access control
+- ☁️ Cloudinary product/profile media infrastructure
+- 🛒 Cart, checkout, addresses, reviews, ratings, and order history
 
-### AI Search Architecture
+**Why it matters:** demonstrates how to connect an LLM to a transactional application while keeping **MongoDB as the source of truth** for inventory, pricing, and product availability.
 
-```text
-User Query
-    ↓
-Normalize / Tokenize
-    ↓
-Catalogue Matching
-    ↓
-Gemini Intent Understanding
-    ↓
-Validate Product IDs
-    ↓
-Merge + Deduplicate
-    ↓
-Real MongoDB Products
-```
-
-**Engineering principle:** AI improves discovery without becoming the single source of truth for the catalogue.
+[💻 View Repository](https://github.com/duttasirius/multivendor) · [🚀 Live Demo](https://multivendor-six.vercel.app/)
 
 ---
 
-## 🏨 Hotel Booking Platform — Full-Stack Hospitality Application
+## 🥈 Vingo — AI-Powered Food Delivery Platform
 
-**Repo:** [duttasirius/hotelweb](https://github.com/duttasirius/hotelweb)
+**React 19 · Node.js · Express 5 · MongoDB · Redux Toolkit · Socket.IO · Gemini · Razorpay**
 
-A full-stack hotel booking application with separate React client and Express backend.
+A full-stack food delivery platform covering customer, shop-owner, and delivery workflows.
 
-**Key engineering work**
+**Highlights**
+- 🤖 AI food assistant with Gemini + deterministic catalog fallback
+- 🔐 JWT authentication, HTTP-only cookies, Google authentication, and OTP password reset
+- 📍 Location-aware restaurant and food discovery with GeoJSON / `2dsphere`
+- 🚴 Delivery workflow and Socket.IO realtime order communication
+- 💳 Razorpay checkout with backend payment verification
+- ⭐ Verified-buyer reviews and ratings
+- 🏪 Dedicated shop-owner management workflows
+- ☁️ Cloudinary image uploads
 
-- 🔐 JWT authentication with password hashing
-- 👤 User and hotel-owner roles
-- 🏨 Hotel registration and owner workflows
-- 🛏️ Room creation and availability management
-- 📅 Booking and availability flows
-- 💳 Razorpay payment integration
-- ☁️ Cloudinary media integration
-- 🔌 Protected REST APIs with Express middleware
-- 🗄️ MongoDB + Mongoose data modelling
+**Why it matters:** demonstrates **realtime systems, geolocation, payments, authentication, and AI integration** in one end-to-end application.
 
----
-
-# 🧩 Other Projects
-
-| Project | What it demonstrates |
-|---|---|
-| 🎬 **[Netflix Clone](https://github.com/duttasirius/Netflix-Clone)** | React UI + API-driven streaming-style experience |
-| 🍅 **[Tomato](https://github.com/duttasirius/tomato)** | Food ordering application workflows |
-| 🚴 **[Vingo Food Delivery](https://github.com/duttasirius/vingo-Food-Delivery)** | Full-stack food delivery application |
-| 🔐 **[MERN Auth](https://github.com/duttasirius/mernAuth)** | JWT authentication and protected routes |
-| 📖 **[Dictionary App](https://github.com/duttasirius/dictionaryapp)** | React + external API integration |
+[💻 View Repository](https://github.com/duttasirius/vingo-Food-Delivery)
 
 ---
 
-# 🏗️ How I Think About Full-Stack Features
+## 🥉 GreenCart — AI-Powered Grocery E-Commerce
+
+**React 19 · Vite · Tailwind CSS · Node.js · Express · MongoDB · Gemini · Stripe · Cloudinary**
+
+A multivendor grocery commerce platform covering the complete shopping lifecycle.
+
+**Highlights**
+- 🤖 Natural-language AI product discovery
+- 🔎 Hybrid AI + deterministic catalogue matching with typo tolerance and synonyms
+- 🛍️ Product catalogue, cart, Buy Now, checkout, addresses, and orders
+- 🏪 Seller product, pricing, stock, image, and order management
+- 💳 Stripe payments + Cash on Delivery
+- ⭐ Product-specific reviews and ratings
+- 🔐 JWT authentication and protected customer/seller workflows
+- ☁️ Cloudinary product media
+
+**Why it matters:** shows how AI can improve discovery without becoming a **single point of failure or source of truth** for commerce data.
+
+[💻 View Repository](https://github.com/duttasirius/ggrocery)
+
+---
+
+## 👗 Forever — Full-Stack Fashion E-Commerce
+
+**React 19 · Vite · Tailwind CSS · Node.js · Express · MongoDB · Stripe · Razorpay · Cloudinary · Gemini**
+
+A production-deployed fashion commerce platform with separate customer, admin, and backend applications.
+
+**Highlights**
+- 🤖 AI-assisted conversational product discovery
+- 🛒 Customer storefront with cart, checkout, and order workflows
+- 🧑‍💼 Dedicated admin dashboard for products and orders
+- 💳 Stripe + Razorpay payment integrations
+- ☁️ Cloudinary media management
+- 🔐 JWT authentication and protected API routes
+- 📧 Newsletter and email functionality
+- 🚀 Independently deployed frontend, admin, and backend applications on Vercel
+
+**Why it matters:** demonstrates **monorepo organization, REST APIs, admin systems, third-party integrations, and production deployment**.
+
+[💻 View Repository](https://github.com/duttasirius/E-Commerce) · [🛒 Live Store](https://e-commerce-89x5.vercel.app/) · [🔐 Admin](https://e-commerce-8ja9.vercel.app/)
+
+---
+
+# 🧠 Engineering Approach
+
+I focus on building features with clear boundaries and real-world failure handling:
 
 ```text
 Browser
   ↓
-React UI
+React / Next.js UI
   ↓
 API Request
   ↓
-Express Route
-  ↓
-Auth / Validation Middleware
+Authentication / Authorization
   ↓
 Controller / Business Logic
   ↓
 MongoDB / External Service
   ↓
-Response
+Validation / Error Handling
   ↓
 UI State Update
 ```
 
-I care about more than making the happy path work. I try to define:
+### Principles I apply
 
-- where the source of truth lives
-- how authentication and authorization are enforced
-- how external service failures are handled
-- how invalid input is rejected
-- how the frontend represents loading, success, and failure states
+- **Database remains the source of truth** for transactional data
+- **Authentication and authorization are enforced server-side**
+- **External services are treated as failure-prone dependencies**
+- **AI output is validated before it reaches the product experience**
+- **Frontend handles loading, success, empty, and error states**
+- **Production secrets stay in environment variables**
 
 ---
 
 # 📚 Currently Improving
 
 - Advanced JavaScript and asynchronous programming
-- React architecture and maintainability
+- TypeScript and Next.js architecture
 - REST API design and backend quality
 - Authentication and authorization
-- MongoDB modelling and query patterns
-- AI integration patterns
+- MongoDB modelling and query optimization
+- AI integration and tool-calling patterns
+- Realtime application architecture
 - Deployment and production debugging
-- Clean, readable, maintainable code
+- Clean, maintainable code
 
 ---
 
@@ -198,54 +203,33 @@ I care about more than making the happy path work. I try to define:
 
 | Area | Stack |
 |---|---|
-| 👨‍💻 Target Role | **Full-Stack Developer / MERN Developer** |
-| 🎨 Frontend | **React · JavaScript · Vite · Tailwind CSS** |
+| 👨‍💻 Target Roles | **Full-Stack Developer · MERN Developer · Software Engineer** |
+| 🎨 Frontend | **React · Next.js · TypeScript · JavaScript · Vite · Tailwind** |
 | ⚙️ Backend | **Node.js · Express · REST APIs** |
 | 🗄️ Database | **MongoDB · Mongoose** |
-| 🔐 Authentication | **JWT · Password Hashing · Protected Routes** |
+| 🔐 Security | **JWT · NextAuth · Password Hashing · RBAC** |
 | 💳 Payments | **Stripe · Razorpay · Cash on Delivery** |
-| ☁️ Cloud | **Cloudinary** |
-| 🤖 AI | **Google Gemini** |
+| ☁️ Cloud | **Cloudinary · Vercel** |
+| 🤖 AI | **Google Gemini · Groq · AI Tool Calling** |
+| ⚡ Realtime | **Socket.IO** |
 | 🧩 Focus | **End-to-end product development** |
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/duttasirius">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duttasirius&theme=github_dark" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/duttasirius">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duttasirius&theme=github_dark" alt="Top languages by repository" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=duttasirius&theme=dark&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-# 🌐 Projects & Links
+# 🌐 Connect & Explore
 
 <div align="center">
 
 <a href="https://github.com/duttasirius"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://github.com/duttasirius/portfolio"><img src="https://img.shields.io/badge/Portfolio-Repository-8250df?style=for-the-badge&logo=github" alt="Portfolio repository" /></a>
+<a href="https://github.com/duttasirius/portfolio"><img src="https://img.shields.io/badge/Portfolio-Repository-8250df?style=for-the-badge&logo=github" alt="Portfolio" /></a>
+<a href="https://github.com/duttasirius/multivendor"><img src="https://img.shields.io/badge/MultiCart-Featured-8250df?style=for-the-badge&logo=github" alt="MultiCart" /></a>
+<a href="https://github.com/duttasirius/vingo-Food-Delivery"><img src="https://img.shields.io/badge/Vingo-Featured-f97316?style=for-the-badge&logo=github" alt="Vingo" /></a>
 <a href="https://github.com/duttasirius/ggrocery"><img src="https://img.shields.io/badge/GreenCart-Featured-2ea44f?style=for-the-badge&logo=github" alt="GreenCart" /></a>
-<a href="https://github.com/duttasirius/hotelweb"><img src="https://img.shields.io/badge/Hotel%20Booking-Featured-2563eb?style=for-the-badge&logo=github" alt="Hotel Booking" /></a>
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building • Debugging • Learning • Shipping
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=duttasirius&style=for-the-badge" alt="Profile views" />
+
+### 🚀 Building • Debugging • Learning • Shipping
 
 </div>
